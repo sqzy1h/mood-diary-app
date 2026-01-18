@@ -21,14 +21,14 @@ A beautiful cross-platform mood diary application built with React Native to hel
 ## 🚀 Quick Start
 
 ### Online Demo
-1. Visit: [Your Snack Link Here]
+1. Visit: https://snack.expo.dev/@sqzy1h/mooddiary
 2. Scan QR code with Expo Go app
 3. Start using immediately
 
 ### Local Development
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/mood-diary-app.git
+git clone https://github.com/sqzy1h/mood-diary-app.git
 
 # Navigate to project
 cd mood-diary-app

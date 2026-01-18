@@ -1,11 +1,40 @@
-# Sample Snack app
+# 📱 Mood Diary App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A beautiful cross-platform mood diary application built with React Native to help users track their daily emotions and thoughts.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## ✨ Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- 🎨 **6 Mood Selection**: Happy, Sad, Neutral, Angry, Excited, Tired
+- 📝 **Diary Entry**: Write daily thoughts and feelings
+- 💾 **Local Storage**: Save all diary entries
+- 🔍 **History View**: Browse all past entries chronologically
+- 🗑️ **Entry Management**: Long press to delete entries
+- 📱 **Cross-Platform**: Works on iOS, Android, and Web
+- 🎯 **Real-time Feedback**: Immediate feedback on actions
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🖼️ Screenshots
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+| Home Screen | Mood Selection | History |
+|-------------|----------------|---------|
+| ![Home](screenshots/home.png) | ![Mood Select](screenshots/mood-select.png) | ![History](screenshots/history.png) |
+
+## 🚀 Quick Start
+
+### Online Demo
+1. Visit: https://snack.expo.dev/@sqzy1h/mooddiary
+2. Scan QR code with Expo Go app
+3. Start using immediately
+
+### Local Development
+```bash
+# Clone repository
+git clone https://github.com/sqzy1h/mood-diary-app.git
+
+# Navigate to project
+cd mood-diary-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
